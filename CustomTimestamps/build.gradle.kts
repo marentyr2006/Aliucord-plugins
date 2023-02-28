@@ -1,9 +1,9 @@
-version = "1.0.6"
+version = "I.VI"
 description = "Custom timestamps format everywhere."
 
 aliucord.changelog.set("""
     Updated {updated marginTop}
     ======================
     
-    * updated to **101.3**
+    * updated to **I.VI**
 """.trimIndent())
